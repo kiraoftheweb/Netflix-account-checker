@@ -1,1 +1,4 @@
-# Netflix-acount-checker
+# NETFLIX ACCOUNT CHECKER
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
