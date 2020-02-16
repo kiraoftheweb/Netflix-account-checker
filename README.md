@@ -7,6 +7,12 @@ And install requirements
 ```bash
 pip install -r requirements.txt
 ```
+## USAGE
+Put your email list and password separated by ':' and run run.py
+
+```bash
+python run.py
+```
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
